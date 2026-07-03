@@ -1,0 +1,8 @@
+{
+  "name": "RJAS Premium Travel & Visa Services",
+  "short_name": "RJAS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8eb",
+  "theme_color": "#8f1018"
+}
